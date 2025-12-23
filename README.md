@@ -8,10 +8,9 @@ a2_bus_traces contain some example traces. (Bus_Data_XXX.bin)
 These files are traces of address and data sampled once a clock.
 
 LA_Data_XXX.bin are "logic analyzer" traces of the bus signals at higher 
-sampling rates.
+sampling rates. LA_Data_XXX.bin files are not yet supported.
 
-Use the option -A to decode Bus_Data_XXX.bin files.   LA_Data_XXX.bin files are
-not yet supported.
+Use the option -A to decode Bus_Data_XXX.bin files. -h for help
 
 The SYMBOLS.txt file is from AppleWin
 
